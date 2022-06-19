@@ -1,0 +1,1 @@
+ O Git Bash é um Terminal estendido para otimizar o uso do Git
